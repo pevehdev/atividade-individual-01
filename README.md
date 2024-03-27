@@ -25,6 +25,9 @@ Execute o arquivo python:
 python atividade_individual_01.py
 ```
 ## Exemplo de Uso
-Suponha que o usuário deseje buscar candidatos com notas mínimas de e=4, t=4, p=8 e s=8. O programa retorna os candidatos que atendem a esses critérios:
+<img width="600" alt="consulta" src="https://github.com/pevehdev/atividade-individual-01/blob/main/img/Consulta%20Boletim%201.PNG">
+Suponha que o usuário deseje buscar candidatos com notas mínimas de E = 4, T = 4, P = 8 e S = 8 que tenham sidos cadastrados anteriormente. 
 
-<img width="900" alt="consulta" src="">
+O programa retorna os candidatos que atendem a esses critérios:
+
+<img width="600" alt="consulta" src="https://github.com/pevehdev/atividade-individual-01/blob/main/img/Consulta%20Boletim%202.PNG">
